@@ -1,5 +1,5 @@
 tensorflow>=1.12.1
-scipy
+scipy==1.1.0
 scikit-learn
 opencv-python
 h5py
